@@ -7,6 +7,9 @@
 
 * JavaScript
 * Python
+* Java
+* Node JS
+* Angular
 * Django
 * HTML / CSS
 
