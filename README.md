@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @ByEilerDev
-- 👀 I’m interested in Software Development ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hola, soy Eiler Ramírez
 
-<!---
-ByEilerDev/ByEilerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Desarrollador de Software Junior
+📍 Colombia
+
+## 🚀 Tecnologías
+
+* JavaScript
+* Python
+* Django
+* HTML / CSS
+
+## 📂 Proyectos Destacados
+
+* Sistema CRUD con Django
+* API REST
+* Aplicación web básica
+
+## 📫 Contacto
+
+* Email: [eyramij@gmail.com](mailto:eyramij@gmail.com)
+* GitHub: https://github.com/ByEilerDev
+
