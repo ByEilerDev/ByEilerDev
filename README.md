@@ -9,7 +9,7 @@
 * Python
 * Java
 * Node JS
-* Angular
+* Angular 
 * Django
 * HTML / CSS
 
